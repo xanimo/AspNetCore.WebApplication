@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json.schemastore.org/vs-2017.3.host",
+  "name": {
+    "text": "ASP.NET Core Web Application"
+  },
+  "description": {
+    "text": "A project template for creating an ASP.NET Core application in Visual Basic"
+  },
+  "order": 315,
+  "icon": "icon.png",
+  "learnMoreLink": "https://github.com/xanimo/AspNetCore.WebApplication",
+  "uiFilters": [
+    "oneaspnet"
+  ],
+  "supportsDocker": true,
+  "supportedAuthentications": [
+    {
+      "auth": "None",
+      "authenticationType": "NoAuth",
+      "allowUnsecured": true
+    }
+  ],
+  "ports": [
+    {
+      "name": "HttpPort",
+      "useHttps": false
+    },
+    {
+      "name": "HttpsPort",
+      "useHttps": true
+    }
+  ],
+  "excludeLaunchSettings": false,
+  "minFullFrameworkVersion": "4.6.1",
+  "disableHttpsSymbol": "NoHttps"
+}
