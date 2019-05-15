@@ -29,12 +29,12 @@ Also check out the [.NET Homepage](https://www.microsoft.com/net) for released v
 Some of the best ways to contribute are to try things out, file issues, join in design conversations,
 and make pull-requests.
 
-* [Latest daily builds](./docs/DailyBuilds.md)
+* [Latest daily builds](https://github.com/aspnet/AspNetCore/blob/master/docs/DailyBuilds.md)
 * Follow along with the development of ASP.NET Core:
     * [Community Standup](http://live.asp.net): The community standup is held every week and streamed live to YouTube. You can view past standups in the linked playlist.
     * [Roadmap](https://github.com/aspnet/AspNetCore/wiki/Roadmap): The schedule and milestone themes for ASP.NET Core.
-* [Build ASP.NET Core source code](./docs/BuildFromSource.md)
-* Check out the [contributing](CONTRIBUTING.md) page to see the best places to log issues and start discussions.
+* [Build ASP.NET Core source code](https://github.com/aspnet/AspNetCore/blob/master/docs/BuildFromSource.md)
+* Check out the [contributing](https://github.com/aspnet/AspNetCore/blob/master/CONTRIBUTING.md) page to see the best places to log issues and start discussions.
 
 ## Reporting security issues and bugs
 

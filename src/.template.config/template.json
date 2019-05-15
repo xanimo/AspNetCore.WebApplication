@@ -1,0 +1,24 @@
+{
+  "author": "xanimo",
+  "classifications": [ "Web" ], 
+  "name": "Empty ASP.NET Core Web Application in Visual Basic",
+  "identity": "AspNetCore.WebApplication",         
+  "shortName": "AspNetCore.WebApplication",
+  "tags": {
+    "language": "[VB]"
+  },
+  "preferNameDirectory": true,
+  "sourceName": "AspNetCore.WebApplication",
+  "symbols":{
+    "CopyrightName": {
+      "type": "parameter",
+      "defaultValue": "WebApplication1",
+      "replaces":"AspNetCore.WebApplication"
+    },
+    "Title": {
+      "type": "parameter",
+      "defaultValue": "WebApplication1",
+      "replaces":"AspNetCore.WebApplication"
+    }
+  }
+}
