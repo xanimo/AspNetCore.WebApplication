@@ -2,7 +2,6 @@
 ﻿![ASP.NET Core (VB)](logo.png)
 
 ### ASP.NET Core Web Application in Visual Basic 
-##### (ASP.NET Core v2.2 & .NET Framework v4.61)
 
 [![Build Status](https://dev.azure.com/xanimo/AspNetCore.WebApplication/_apis/build/status/xanimo.AspNetCore.WebApplication?branchName=master)](https://dev.azure.com/xanimo/AspNetCore.WebApplication/_build/latest?definitionId=12&branchName=master)
 
@@ -11,9 +10,8 @@ This is a project template which is used in .NET Core for creating ASP.NET Core 
 
 ## Building Templates
 - Run `dotnet build` in the repository root to build all of the dependencies.
-- Run `dotnet run` in this directory will produce NuGet packages for each class of template in the artifacts directory. These can be installed via `dotnet new -i {nugetpackage path}`
-- The ASP.NET localhost development certificate must also be installed and trusted or else you'll get a test error "Certificate error: Navigation blocked".
-- You also need to get the packages these templates depend on into your package cache or else `dotnet new` restore will fail. The easiest way to get them to run is by letting the build run at least 1 test. Note currently some packages are missed. https://github.com/aspnet/AspNetCore/issues/7388
+- Change directory to src `cd src`
+- Run `dotnet run` in this directory and browse to https://localhost:5001 to see the 'Hello World!'.
 
 ASP.NET Core
 ============
