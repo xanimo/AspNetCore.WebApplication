@@ -3,9 +3,9 @@
   <metadata>
     <id>xanimo.AspNetCore.WebApplication</id>
     <title>AspNetCore.WebApplication</title>
-    <summary>A high-performance blog web site using ASP.NET Core MVC and the latest in client-side technologies.</summary>
+    <summary>An empty project template for creating an ASP.NET Core application in Visual Basic.</summary>
     <version>1.0.0</version>
-    <description>A high-performance blog web site using ASP.NET Core MVC and the latest in client-side technologies.</description>
+    <description>An empty project template for creating an ASP.NET Core application in Visual Basic.</description>
     <authors>xanimo</authors>
     <projectUrl>https://github.com/xanimo/AspNetCore.WebApplication</projectUrl>
     <tags>asp.net core .net template</tags>
